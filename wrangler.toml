@@ -3,7 +3,7 @@
 # ZAROORI: Neeche "name" ke andar wahi naam likhein jo aap ne Cloudflare
 # Worker project banate waqt rakha hai!
 # =====================================================================
-name = "my-worker-name"
+name = "media-hub"
 compatibility_date = "2026-10-01"
 
 [assets]
